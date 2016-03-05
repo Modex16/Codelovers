@@ -1,0 +1,51 @@
+/*CSS File For Sign-In webpage*/
+#body-color{
+background-image: url(sign-in-image.jpg);
+}
+#Sign-Up{
+
+background-color: transparent;
+	font-weight: bold;
+		font-family: courier;
+margin-top:100px;
+margin-bottom:120px;
+margin-right:150px;
+margin-left:450px;
+border:3px solid #a1a1a1;
+padding:9px 35px; 
+width:350px;
+border-radius:20px;
+box-shadow: 7px 7px 6px;
+font-size:18px
+}
+#Sign-In{
+
+background-color: transparent;
+font-family: courier;
+margin-top:100px;
+margin-bottom:150px;
+margin-right:150px;
+margin-left:450px;
+border:3px solid #a1a1a1;
+padding:9px 35px; 
+width:400px;
+border-radius:20px;
+box-shadow: 7px 7px 6px;
+font-size:18px
+}
+#button{
+
+background-color: transparent;
+	font-family: courier;
+border-radius:10px;
+width:100px;
+height:40px;
+
+font-weight:bold;
+font-size:18px
+}
+p{
+	color: black;
+	font-family: courier;
+	font-size: 16px;
+}
