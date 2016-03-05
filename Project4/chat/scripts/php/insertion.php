@@ -170,6 +170,7 @@ if($table_number==55)
 	
 	function Formcheck()
 	{
+		$_POST['complaint'] = htmlspecialchars($_POST['complaint']);
 		if(!empty($_POST['complaint']) and !empty($_POST['Student_name']) )
 		{
 			NewUser();
